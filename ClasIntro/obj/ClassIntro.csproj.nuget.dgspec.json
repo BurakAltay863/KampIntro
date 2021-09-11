@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\ClasIntro\\ClassIntro.csproj": {}
+    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\ClasIntro\\ClassIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\ClasIntro\\ClassIntro.csproj": {
+    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\ClasIntro\\ClassIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\ClasIntro\\ClassIntro.csproj",
+        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\ClasIntro\\ClassIntro.csproj",
         "projectName": "ClassIntro",
-        "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\ClasIntro\\ClassIntro.csproj",
+        "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\ClasIntro\\ClassIntro.csproj",
         "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\ClasIntro\\obj\\",
+        "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\ClasIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

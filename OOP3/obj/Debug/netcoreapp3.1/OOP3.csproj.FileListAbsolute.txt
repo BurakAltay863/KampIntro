@@ -1,0 +1,13 @@
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\DersteYapılanlar\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache

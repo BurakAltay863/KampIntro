@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\Matematik\\Matematik.csproj": {}
+    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\Matematik\\Matematik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\Matematik\\Matematik.csproj": {
+    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\Matematik\\Matematik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\Matematik\\Matematik.csproj",
+        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\Matematik\\Matematik.csproj",
         "projectName": "Matematik",
-        "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\Matematik\\Matematik.csproj",
+        "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\Matematik\\Matematik.csproj",
         "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\Matematik\\obj\\",
+        "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\Matematik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

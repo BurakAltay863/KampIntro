@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
       "projectName": "DegerVeReferansTipler",
-      "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
       "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\DegerVeReferansTipler\\obj\\",
+      "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\DegerVeReferansTipler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

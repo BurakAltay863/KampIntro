@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\KampIntro\\KampIntro.csproj": {}
+    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\KampIntro\\KampIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\KampIntro\\KampIntro.csproj": {
+    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\KampIntro\\KampIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\KampIntro\\KampIntro.csproj",
+        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\KampIntro\\KampIntro.csproj",
         "projectName": "KampIntro",
-        "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\KampIntro\\KampIntro.csproj",
+        "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\KampIntro\\KampIntro.csproj",
         "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\Derste Yapılanlar\\KampIntro\\KampIntro\\obj\\",
+        "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\DersteYapılanlar\\KampIntro\\KampIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
